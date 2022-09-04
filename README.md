@@ -1,7 +1,7 @@
 ### [Andrey Marakulin 🌐](https://cv.annndruha.space/)
 
 <p align="left">
-  <img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Annndruha&layout=compact" />
-  <img alt="octocat" width="150px" src="https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif"/>
-  <img alt="github stats" height="150px" src="https://github-readme-stats.vercel.app/api?username=Annndruha&show_icons=true" />
+  <img alt="Top Langs" height="100px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Annndruha&layout=compact" />
+  <img alt="octocat" width="100px" src="https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif"/>
+  <img alt="github stats" height="100px" src="https://github-readme-stats.vercel.app/api?username=Annndruha&show_icons=true" />
 </p>
