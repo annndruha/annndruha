@@ -6,4 +6,4 @@
   <img alt="github stats" width=44% src="https://github-readme-stats-sigma-five.vercel.app/api?username=Annndruha&show_icons=true" />
 </p>
 
-You also can find my projects [here](https://github.com/SmartThinksDIY)
+You also can find my projects [here](https://github.com/SmartThinksDIY) and [here](https://github.com/profcomff)
