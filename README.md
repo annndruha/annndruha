@@ -1,4 +1,4 @@
-### [Andrey Marakulin 🌐](https://cv.annndruha.space/)
+### [Andrey Marakulin 🌐](https://annndruha.space)
 
 <p align="left">
   <img alt="Top Langs" width=36% src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Annndruha&layout=compact" />
